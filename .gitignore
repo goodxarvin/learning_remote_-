@@ -1,0 +1,7 @@
+# don't need koth
+# also don't need go
+new_koth/
+koth/
+*.go
+# except this file
+!main.go
